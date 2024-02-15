@@ -23,7 +23,7 @@ alert (navegador == "Firefox" || navegador == "Chrome" && sistemaOperacional == 
 //Exercício 4 - Aula 1
 
 let idade3 = prompt("Qual a sua idade?")
-let compraMinima = prompt("Quanto deu sua compra?")
+let compraMinima = prompt("Quanto deu a sua compra?")
 let newClient = prompt("Já é cliente nosso?")
 
 alert (idade3 >= 60 && compraMinima >= 100 && newClient == "nao")
